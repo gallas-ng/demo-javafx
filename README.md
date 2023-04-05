@@ -1,2 +1,2 @@
 # demo-javafx
- Auth and Crud with JavaFx
+ Auth et CRUD avec JavaFx
