@@ -2,7 +2,7 @@
  Simple Auth and CRUD with JavaFX
 
 Page Connexion
-<img src="Conn.jpg">
+<img src="conn.jpg">
 
 Liste des Etudiants
 <img src="students.jpg" alt="page_home" title="Page d'acceuil client">
